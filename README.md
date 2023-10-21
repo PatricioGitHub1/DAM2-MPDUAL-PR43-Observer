@@ -1,6 +1,6 @@
 # Exemple de Observable #
 
-En aquest projecte hi ha un exemple de Observable a Java
+Alumne: PATRICIO ANDRÉ ROJAS CONDORI. En aquest projecte hi ha un exemple de Observable a Java
 
 ### Compilació i funcionament ###
 
